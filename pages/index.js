@@ -14,6 +14,9 @@ export default function Home() {
 
   return (
     <div id="main">
+      <Head>
+      <title>Vidoozles</title>
+      </Head>
       <Navbar/>
       <Hero/>
       <Mint/>

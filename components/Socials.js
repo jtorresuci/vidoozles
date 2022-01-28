@@ -3,9 +3,9 @@ import { ButtonGroup, ButtonGroupProps, IconButton } from '@chakra-ui/react'
 import { FaDiscord, FaGithub, FaInstagram, FaLinkedin, FaTwitter, FaLink} from 'react-icons/fa'
 
 
-const twitterHandle ="https://twitter.com/Avazordsnft"
+const twitterHandle ="https://twitter.com/vidoozles"
 const igHandle ="https://instagram.com/saintn.wtf"
-const discordHandle ="https://discord.gg/B6QEcFYavZ"
+const discordHandle ="https://discord.gg/h4fpPpHjvw"
 const openseaHandle ="https://instagram.com/saintn.wtf"
 
 const hoverColor ="white"
