@@ -89,7 +89,8 @@ return(
           src="../gif.gif"
           borderRadius="30px"
         />
-        <Text fontWeight={"bold"} p="1rem" fontSize={"1.35rem"}> Total minted: {supplyText} / 10007</Text>
+        {/* <Text fontWeight={"bold"} p="1rem" fontSize={"1.35rem"}> Total minted: {supplyText} / 10007</Text> */}
+        <Text fontWeight={"bold"} p="1rem" fontSize={"1.35rem"}> Total minted: 0 / 10007</Text>
       </Flex>
       <Box>
         <Center>
