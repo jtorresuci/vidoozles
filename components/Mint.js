@@ -113,7 +113,7 @@ return(
                 type="range"
                 min="1"
                 max="20"
-                disabled={mintButtonDisabled}
+                // disabled={mintButtonDisabled}
                 value={sliderValue}
                 onChange={updateInputValue}
                 className="slider"
