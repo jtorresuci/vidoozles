@@ -18,7 +18,7 @@ const Footer = () => {
       alignItems={"center"}
     >
 <Box></Box>
-<VStack><Heading fontFamily={"BodoAmat"}>Contract Address</Heading><Link href={"https://polygonscan.com/"} is External fontFamily={"BodoAmat"}>Coming Soon</Link></VStack>
+<VStack><Heading fontFamily={"BodoAmat"}>Contract Address</Heading><Link href={"https://polygonscan.com/address/0xebdc89700ce1104897f7c8e385120f95494091e9"} is External fontFamily={"BodoAmat"}>0xebdc89700CE1104897f7C8E385120f95494091e9</Link></VStack>
         <Box></Box>
         </Flex>
 
