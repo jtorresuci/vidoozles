@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 let Web3 = require('web3');
 
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from "react-icons/md";
+const sidePadding = "10%";
 
 
 
@@ -75,7 +76,8 @@ const Mint = () => {
     }
 
 return(
-    <Box pt="5rem">
+    <Box  pl={["0", sidePadding]}
+    pr={["0", sidePadding]} pt="5rem">
     <Grid
 
       templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}
