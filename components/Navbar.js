@@ -17,9 +17,13 @@ pb="5rem"
       textColor={"black"}
       alignItems={"center"}
     >
+      <Box>
+
+      </Box>
 <VStack>       <Image w={"45%", "80%"} src={logoImg}/>
 <Socials/>
 </VStack>        
+<Box></Box>
         
         
             
