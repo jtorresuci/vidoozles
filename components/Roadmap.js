@@ -50,10 +50,11 @@ const Roadmap = ({ reverse, image, heading, text }) => {
                     borderRadius="40px"
                     className="color-change-2x"          
                     >
-                        
 
-                        <Heading textAlign={"left"} className="focus-in-expand-fwd" p="2rem" fontFamily={"BodoAmat"} fontSize={["14", "40pt"]} >{heading && heading}</Heading>
-          <Text textAlign={"justified"} className="text-focus-in" p="2rem" fontFamily={"BodoAmat"} fontSize={["12pt", "20pt"]}>{text && text}</Text></Box>
+          <Heading textAlign={"left"} className="focus-in-expand-fwd" p="2rem" fontFamily={"BodoAmat"} fontSize={["14", "40pt"]} >{heading && heading}</Heading>
+          <Text textAlign={"justified"} className="text-focus-in" p="2rem" fontFamily={"BodoAmat"} fontSize={["12pt", "20pt"]}>{text && text}</Text>
+        
+          </Box>
           <Image
           borderRadius="30px"
           src={image}
