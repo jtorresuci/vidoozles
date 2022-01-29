@@ -62,6 +62,23 @@ const ImageWithText = ({ reverse, image, heading, text }) => {
 
           <Heading textAlign={"left"} className="focus-in-expand-fwd" p="2rem" fontFamily={"BodoAmat"} fontSize={["14", "40pt"]} >{heading && heading}</Heading>
           <Text textAlign={"justified"} className="text-focus-in" p="2rem" fontFamily={"BodoAmat"} fontSize={["12pt", "20pt"]}>{text && text}</Text>
+          <Center p={8}>
+            <Button
+                      borderRadius="20px"
+
+              className="bounce-in-bck"
+              w={"50%"}
+            //   maxW={"md"}
+              backgroundColor="#5865F2"
+              color={"white"}
+              leftIcon={<FaDiscord size={["35px"]} />}
+              onClick={redirect}
+            >
+              <Center>
+                <Text fontFamily={"BodoAmat"} fontSize={["12pt", "20pt"]} >Discord</Text>
+              </Center>
+            </Button>
+          </Center>
           </Box>
 
 
