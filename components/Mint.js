@@ -125,7 +125,7 @@ return(
 
             </Flex>
 
-            <Button borderRadius={"20px"} color="white" className="color-change-2x"  disabled={"true"} onClick={handleMint}>
+            <Button borderRadius={"20px"} color="white" className="color-change-2x" onClick={handleMint}>
               <Center fontFamily={"BodoAmat"}>
               {mintText} {sliderValue}
                 </Center>
