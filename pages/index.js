@@ -48,7 +48,7 @@ export default function Home() {
       reverse
         image={image7}
         heading="Is this a DAO?"
-        text="Yes little Timmy, this is a DAO. A decentralized autonomous organization. WOW. That means that the project will be run by the community, with events that will allow holders vote on what to do with the Vidoozle Treasury. Anything is possible!"
+        text="Yes little Timmy, this is a DAO. A decentralized autonomous organization. WOW. That means that the project will be run by the community, with events that will allow holders to vote on what to do with the Vidoozle Treasury. Anything is possible!"
       /> 
       <Roadmap
       reverse
