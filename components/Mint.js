@@ -97,7 +97,7 @@ return(
       <Box>
         <Center>
           <VStack p="2rem" >
-            <Button borderRadius={"20px"} color="white" className="color-change-2x" onClick={handleConnect}>
+            <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={{handleConnect}} onClick={handleConnect}>
               <Center fontFamily={"BodoAmat"}>
               Connect to Web3
 
