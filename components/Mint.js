@@ -62,7 +62,6 @@ const Mint = () => {
         from: address,
         to: contractAddress,
         data: encoded,
-        nonce: "0x00",
         value: web3.utils.numberToHex(_price)
       }
   
@@ -125,7 +124,6 @@ return(
 
             </Flex>
 
-            {/* <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={handleMint} onClick={handleMint}> */}
             <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={() => handleMint()} onClick={handleMint}>
 
               <Center fontFamily={"BodoAmat"}>
