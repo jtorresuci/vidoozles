@@ -97,7 +97,7 @@ return(
       <Box>
         <Center>
           <VStack p="2rem" >
-            <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={{handleConnect}} onClick={handleConnect}>
+            <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={() => handleConnect()} onClick={handleConnect}>
               <Center fontFamily={"BodoAmat"}>
               Connect to Web3
 
@@ -121,11 +121,13 @@ return(
                 className="slider"
               />
             </div>
-            <MdKeyboardArrowRight color="black"/>
+            <MdKeyboardArrowRight color="black"/> 
 
             </Flex>
 
-            <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={handleMint} onClick={handleMint}>
+            {/* <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={handleMint} onClick={handleMint}> */}
+            <Button borderRadius={"20px"} color="white" className="color-change-2x" onTouchStart={() => handleMint()} onClick={handleMint}>
+
               <Center fontFamily={"BodoAmat"}>
               {mintText} {sliderValue}
                 </Center>
