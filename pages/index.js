@@ -18,7 +18,7 @@ const image5 = "../5.png"
 const image6 = "../5.png"
 const image7 = "../7.png"
 
-let Web3 = require('web3');
+// let Web3 = require('web3');
 
 export default function Home() {
 
