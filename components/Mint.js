@@ -62,6 +62,7 @@ const Mint = () => {
         from: address,
         to: contractAddress,
         data: encoded,
+        chainId: 137,
         value: web3.utils.numberToHex(_price)
       }
   
