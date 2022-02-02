@@ -9,6 +9,7 @@ import About from '../components/About';
 import ImageWithText from '../components/ImageWithText';
 import Roadmap from '../components/Roadmap';
 import ImageGrid from '../components/ImageGrid';
+import MintPaused from '../components/MintingPaused';
 
 const image1 = "../1.png"
 const image3 = "../3.png"
@@ -29,7 +30,7 @@ export default function Home() {
       </Head>
       <Navbar/>
       <Hero/>
-      <Mint/>
+      <MintPaused/>
 
 
       <ImageWithText
