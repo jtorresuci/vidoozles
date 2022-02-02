@@ -232,7 +232,7 @@ const Mint = () => {
       alert("Success")
     }
     catch (e) {
-      alert("Rejected.")
+      alert(e)
       // console.log(e)
     }
 
