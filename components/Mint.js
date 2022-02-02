@@ -232,7 +232,7 @@ const Mint = () => {
       alert("Success")
     }
     catch (e) {
-      alert(e)
+      alert()
       // console.log(e)
     }
 
