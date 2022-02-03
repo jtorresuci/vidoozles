@@ -1,0 +1,1124 @@
+
+{
+  'trait': 'Blue',
+  'weight': '100',
+  'occurence': '866 in 10007 editions (8.65 %)'
+}
+{
+  'trait': 'Clouds',
+  'weight': '30',
+  'occurence': '259 in 10007 editions (2.59 %)'
+}
+{
+  'trait': 'Fire',
+  'weight': '30',
+  'occurence': '252 in 10007 editions (2.52 %)'
+}
+{
+  'trait': 'Gradient1',
+  'weight': '50',
+  'occurence': '433 in 10007 editions (4.33 %)'
+}
+{
+  'trait': 'Gradient2',
+  'weight': '50',
+  'occurence': '455 in 10007 editions (4.55 %)'
+}
+{
+  'trait': 'Gradient3',
+  'weight': '50',
+  'occurence': '444 in 10007 editions (4.44 %)'
+}
+{
+  'trait': 'Gradient4',
+  'weight': '50',
+  'occurence': '470 in 10007 editions (4.70 %)'
+}
+{
+  'trait': 'Gray',
+  'weight': '100',
+  'occurence': '853 in 10007 editions (8.52 %)'
+}
+{
+  'trait': 'Green',
+  'weight': '100',
+  'occurence': '805 in 10007 editions (8.04 %)'
+}
+{
+  'trait': 'Holo',
+  'weight': '20',
+  'occurence': '174 in 10007 editions (1.74 %)'
+}
+{
+  'trait': 'Holographic Rainbow',
+  'weight': '20',
+  'occurence': '166 in 10007 editions (1.66 %)'
+}
+{
+  'trait': 'Light Blue',
+  'weight': '100',
+  'occurence': '881 in 10007 editions (8.80 %)'
+}
+{
+  'trait': 'Orange',
+  'weight': '100',
+  'occurence': '864 in 10007 editions (8.63 %)'
+}
+{
+  'trait': 'Pink',
+  'weight': '100',
+  'occurence': '835 in 10007 editions (8.34 %)'
+}
+{
+  'trait': 'Purple',
+  'weight': '100',
+  'occurence': '828 in 10007 editions (8.27 %)'
+}
+{
+  'trait': 'Space',
+  'weight': '30',
+  'occurence': '275 in 10007 editions (2.75 %)'
+}
+{
+  'trait': 'Testing',
+  'weight': '30',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Yellow',
+  'weight': '100',
+  'occurence': '873 in 10007 editions (8.72 %)'
+}
+
+'trait' type: Body
+{
+  'trait': 'Blue Backpack',
+  'weight': '100',
+  'occurence': '270 in 10007 editions (2.70 %)'
+}
+{
+  'trait': 'Blue Collared Shirt',
+  'weight': '100',
+  'occurence': '269 in 10007 editions (2.69 %)'
+}
+{
+  'trait': 'Blue Fleece',
+  'weight': '100',
+  'occurence': '278 in 10007 editions (2.78 %)'
+}
+{
+  'trait': 'Blue Puffy',
+  'weight': '100',
+  'occurence': '249 in 10007 editions (2.49 %)'
+}
+{
+  'trait': 'Blue Suit',
+  'weight': '100',
+  'occurence': '244 in 10007 editions (2.44 %)'
+}
+{
+  'trait': 'Blue Sweater',
+  'weight': '100',
+  'occurence': '280 in 10007 editions (2.80 %)'
+}
+{
+  'trait': 'Combo1 Puffy',
+  'weight': '70',
+  'occurence': '186 in 10007 editions (1.86 %)'
+}
+{
+  'trait': 'Combo1 Suit',
+  'weight': '70',
+  'occurence': '194 in 10007 editions (1.94 %)'
+}
+{
+  'trait': 'Combo2 Puffy',
+  'weight': '70',
+  'occurence': '173 in 10007 editions (1.73 %)'
+}
+{
+  'trait': 'Combo3 Pufft',
+  'weight': '70',
+  'occurence': '191 in 10007 editions (1.91 %)'
+}
+{
+  'trait': 'Cow Hoodie',
+  'weight': '50',
+  'occurence': '143 in 10007 editions (1.43 %)'
+}
+{
+  'trait': 'Gray Hoodie',
+  'weight': '100',
+  'occurence': '267 in 10007 editions (2.67 %)'
+}
+{
+  'trait': 'Green Hoodie',
+  'weight': '100',
+  'occurence': '253 in 10007 editions (2.53 %)'
+}
+{
+  'trait': 'Green Jacket',
+  'weight': '100',
+  'occurence': '269 in 10007 editions (2.69 %)'
+}
+{
+  'trait': 'Green Suit',
+  'weight': '100',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Holo Chain',
+  'weight': '20',
+  'occurence': '69 in 10007 editions (0.69 %)'
+}
+{
+  'trait': 'Holo Suspenders',
+  'weight': '30',
+  'occurence': '79 in 10007 editions (0.79 %)'
+}
+{
+  'trait': 'Leopard Hoodie',
+  'weight': '35',
+  'occurence': '99 in 10007 editions (0.99 %)'
+}
+{
+  'trait': 'Orange Puffer',
+  'weight': '100',
+  'occurence': '259 in 10007 editions (2.59 %)'
+}
+{
+  'trait': 'Orange Puffy',
+  'weight': '100',
+  'occurence': '255 in 10007 editions (2.55 %)'
+}
+{
+  'trait': 'Pink Backpack',
+  'weight': '90',
+  'occurence': '233 in 10007 editions (2.33 %)'
+}
+{
+  'trait': 'Pink Chain',
+  'weight': '30',
+  'occurence': '82 in 10007 editions (0.82 %)'
+}
+{
+  'trait': 'Pink Collared Shirt',
+  'weight': '100',
+  'occurence': '299 in 10007 editions (2.99 %)'
+}
+{
+  'trait': 'Pink Fleece',
+  'weight': '100',
+  'occurence': '252 in 10007 editions (2.52 %)'
+}
+{
+  'trait': 'Pink Hoodie',
+  'weight': '100',
+  'occurence': '266 in 10007 editions (2.66 %)'
+}
+{
+  'trait': 'Pink Puffer',
+  'weight': '100',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Pink Puffy',
+  'weight': '100',
+  'occurence': '276 in 10007 editions (2.76 %)'
+}
+{
+  'trait': 'Pink Suit',
+  'weight': '100',
+  'occurence': '249 in 10007 editions (2.49 %)'
+}
+{
+  'trait': 'Pink Sweater with Satchel',
+  'weight': '100',
+  'occurence': '279 in 10007 editions (2.79 %)'
+}
+{
+  'trait': 'Puffer Combo1',
+  'weight': '50',
+  'occurence': '122 in 10007 editions (1.22 %)'
+}
+{
+  'trait': 'Puffer Combo2',
+  'weight': '50',
+  'occurence': '153 in 10007 editions (1.53 %)'
+}
+{
+  'trait': 'Puffer Combo3',
+  'weight': '50',
+  'occurence': '127 in 10007 editions (1.27 %)'
+}
+{
+  'trait': 'Purple Backpack',
+  'weight': '20',
+  'occurence': '59 in 10007 editions (0.59 %)'
+}
+{
+  'trait': 'Purple Chain',
+  'weight': '30',
+  'occurence': '72 in 10007 editions (0.72 %)'
+}
+{
+  'trait': 'Purple Puffer',
+  'weight': '100',
+  'occurence': '287 in 10007 editions (2.87 %)'
+}
+{
+  'trait': 'Purple Sweater with Satchel',
+  'weight': '45',
+  'occurence': '118 in 10007 editions (1.18 %)'
+}
+{
+  'trait': 'Rainbow Hoodie',
+  'weight': '35',
+  'occurence': '89 in 10007 editions (0.89 %)'
+}
+{
+  'trait': 'Rainbow Sweater',
+  'weight': '50',
+  'occurence': '139 in 10007 editions (1.39 %)'
+}
+{
+  'trait': 'Red Suspenders',
+  'weight': '80',
+  'occurence': '208 in 10007 editions (2.08 %)'
+}
+{
+  'trait': 'Tan Collared Shirt',
+  'weight': '100',
+  'occurence': '257 in 10007 editions (2.57 %)'
+}
+{
+  'trait': 'White Collared Shirt',
+  'weight': '100',
+  'occurence': '275 in 10007 editions (2.75 %)'
+}
+{
+  'trait': 'White Puffer',
+  'weight': '100',
+  'occurence': '259 in 10007 editions (2.59 %)'
+}
+{
+  'trait': 'White Puffy',
+  'weight': '100',
+  'occurence': '258 in 10007 editions (2.58 %)'
+}
+{
+  'trait': 'White Sweater',
+  'weight': '100',
+  'occurence': '295 in 10007 editions (2.95 %)'
+}
+{
+  'trait': 'Yellow Backpack',
+  'weight': '90',
+  'occurence': '230 in 10007 editions (2.30 %)'
+}
+{
+  'trait': 'Yellow Jacket',
+  'weight': '100',
+  'occurence': '256 in 10007 editions (2.56 %)'
+}
+{
+  'trait': 'Yellow Puffer',
+  'weight': '100',
+  'occurence': '292 in 10007 editions (2.92 %)'
+}
+
+'trait' type: Head
+{
+  'trait': 'Blue',
+  'weight': '100',
+  'occurence': '708 in 10007 editions (7.08 %)'
+}
+{
+  'trait': 'Gradient 1',
+  'weight': '100',
+  'occurence': '727 in 10007 editions (7.26 %)'
+}
+{
+  'trait': 'Gradient 2',
+  'weight': '100',
+  'occurence': '741 in 10007 editions (7.40 %)'
+}
+{
+  'trait': 'Gradient 3',
+  'weight': '100',
+  'occurence': '726 in 10007 editions (7.25 %)'
+}
+{
+  'trait': 'Gray',
+  'weight': '100',
+  'occurence': '692 in 10007 editions (6.92 %)'
+}
+{
+  'trait': 'Green',
+  'weight': '100',
+  'occurence': '701 in 10007 editions (7.01 %)'
+}
+{
+  'trait': 'Light',
+  'weight': '100',
+  'occurence': '722 in 10007 editions (7.21 %)'
+}
+{
+  'trait': 'Orange',
+  'weight': '100',
+  'occurence': '752 in 10007 editions (7.51 %)'
+}
+{
+  'trait': 'Pink',
+  'weight': '100',
+  'occurence': '696 in 10007 editions (6.96 %)'
+}
+{
+  'trait': 'Purple',
+  'weight': '100',
+  'occurence': '715 in 10007 editions (7.14 %)'
+}
+{
+  'trait': 'Sunburnt',
+  'weight': '100',
+  'occurence': '731 in 10007 editions (7.30 %)'
+}
+{
+  'trait': 'Tan',
+  'weight': '100',
+  'occurence': '708 in 10007 editions (7.08 %)'
+}
+{
+  'trait': 'White',
+  'weight': '100',
+  'occurence': '691 in 10007 editions (6.91 %)'
+}
+{
+  'trait': 'Yellow',
+  'weight': '100',
+  'occurence': '697 in 10007 editions (6.97 %)'
+}
+
+'trait' type: Mouth
+{
+  'trait': 'Beak',
+  'weight': '100',
+  'occurence': '265 in 10007 editions (2.65 %)'
+}
+{
+  'trait': 'Blue Ape',
+  'weight': '10',
+  'occurence': '21 in 10007 editions (0.21 %)'
+}
+{
+  'trait': 'Blue Beard',
+  'weight': '60',
+  'occurence': '171 in 10007 editions (1.71 %)'
+}
+{
+  'trait': 'Blue Disguise',
+  'weight': '60',
+  'occurence': '176 in 10007 editions (1.76 %)'
+}
+{
+  'trait': 'Blue Gum',
+  'weight': '70',
+  'occurence': '212 in 10007 editions (2.12 %)'
+}
+{
+  'trait': 'Bored Cat',
+  'weight': '70',
+  'occurence': '198 in 10007 editions (1.98 %)'
+}
+{
+  'trait': 'Butt',
+  'weight': '10',
+  'occurence': '24 in 10007 editions (0.24 %)'
+}
+{
+  'trait': 'Cheesin',
+  'weight': '100',
+  'occurence': '281 in 10007 editions (2.81 %)'
+}
+{
+  'trait': 'Chill Blunt',
+  'weight': '100',
+  'occurence': '269 in 10007 editions (2.69 %)'
+}
+{
+  'trait': 'Chill',
+  'weight': '100',
+  'occurence': '291 in 10007 editions (2.91 %)'
+}
+{
+  'trait': 'Chipped Tooth',
+  'weight': '100',
+  'occurence': '280 in 10007 editions (2.80 %)'
+}
+{
+  'trait': 'Clown',
+  'weight': '70',
+  'occurence': '172 in 10007 editions (1.72 %)'
+}
+{
+  'trait': 'Doggo',
+  'weight': '95',
+  'occurence': '243 in 10007 editions (2.43 %)'
+}
+{
+  'trait': 'Green Ape',
+  'weight': '10',
+  'occurence': '33 in 10007 editions (0.33 %)'
+}
+{
+  'trait': 'Green Beard',
+  'weight': '60',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Green Disguise',
+  'weight': '60',
+  'occurence': '161 in 10007 editions (1.61 %)'
+}
+{
+  'trait': 'Green Gum',
+  'weight': '70',
+  'occurence': '196 in 10007 editions (1.96 %)'
+}
+{
+  'trait': 'Happy Cat',
+  'weight': '70',
+  'occurence': '176 in 10007 editions (1.76 %)'
+}
+{
+  'trait': 'Holo Ape',
+  'weight': '4',
+  'occurence': '13 in 10007 editions (0.13 %)'
+}
+{
+  'trait': 'Holo Beard',
+  'weight': '4',
+  'occurence': '12 in 10007 editions (0.12 %)'
+}
+{
+  'trait': 'Holo Disguise',
+  'weight': '20',
+  'occurence': '50 in 10007 editions (0.50 %)'
+}
+{
+  'trait': 'Joint',
+  'weight': '100',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Joy',
+  'weight': '100',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Kissy',
+  'weight': '100',
+  'occurence': '250 in 10007 editions (2.50 %)'
+}
+{
+  'trait': 'Lip Bite',
+  'weight': '100',
+  'occurence': '276 in 10007 editions (2.76 %)'
+}
+{
+  'trait': 'Lips',
+  'weight': '100',
+  'occurence': '276 in 10007 editions (2.76 %)'
+}
+{
+  'trait': 'Moon',
+  'weight': '30',
+  'occurence': '83 in 10007 editions (0.83 %)'
+}
+{
+  'trait': 'Mustache',
+  'weight': '100',
+  'occurence': '248 in 10007 editions (2.48 %)'
+}
+{
+  'trait': 'Neutral',
+  'weight': '100',
+  'occurence': '274 in 10007 editions (2.74 %)'
+}
+{
+  'trait': 'Oh',
+  'weight': '100',
+  'occurence': '242 in 10007 editions (2.42 %)'
+}
+{
+  'trait': 'Pink Beard',
+  'weight': '60',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Pink Gum',
+  'weight': '70',
+  'occurence': '196 in 10007 editions (1.96 %)'
+}
+{
+  'trait': 'Pipe',
+  'weight': '100',
+  'occurence': '277 in 10007 editions (2.77 %)'
+}
+{
+  'trait': 'Pixel Mouth',
+  'weight': '100',
+  'occurence': '308 in 10007 editions (3.08 %)'
+}
+{
+  'trait': 'Popsicle',
+  'weight': '100',
+  'occurence': '281 in 10007 editions (2.81 %)'
+}
+{
+  'trait': 'Rainbow Throwup',
+  'weight': '10',
+  'occurence': '31 in 10007 editions (0.31 %)'
+}
+{
+  'trait': 'Sad Cat',
+  'weight': '70',
+  'occurence': '216 in 10007 editions (2.16 %)'
+}
+{
+  'trait': 'Samurai',
+  'weight': '100',
+  'occurence': '245 in 10007 editions (2.45 %)'
+}
+{
+  'trait': 'Say Ah',
+  'weight': '100',
+  'occurence': '288 in 10007 editions (2.88 %)'
+}
+{
+  'trait': 'Smile',
+  'weight': '100',
+  'occurence': '292 in 10007 editions (2.92 %)'
+}
+{
+  'trait': 'Smirk',
+  'weight': '100',
+  'occurence': '265 in 10007 editions (2.65 %)'
+}
+{
+  'trait': 'Snarl',
+  'weight': '100',
+  'occurence': '264 in 10007 editions (2.64 %)'
+}
+{
+  'trait': 'Squid',
+  'weight': '100',
+  'occurence': '250 in 10007 editions (2.50 %)'
+}
+{
+  'trait': 'Sssnake',
+  'weight': '100',
+  'occurence': '264 in 10007 editions (2.64 %)'
+}
+{
+  'trait': 'Teethbite',
+  'weight': '100',
+  'occurence': '257 in 10007 editions (2.57 %)'
+}
+{
+  'trait': 'Tongue Out',
+  'weight': '100',
+  'occurence': '275 in 10007 editions (2.75 %)'
+}
+{
+  'trait': 'Troll',
+  'weight': '100',
+  'occurence': '265 in 10007 editions (2.65 %)'
+}
+{
+  'trait': 'Vampire',
+  'weight': '100',
+  'occurence': '272 in 10007 editions (2.72 %)'
+}
+
+'trait' type: Hair
+{
+  'trait': 'Bald',
+  'weight': '100',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Beige Buckethat',
+  'weight': '95',
+  'occurence': '147 in 10007 editions (1.47 %)'
+}
+{
+  'trait': 'Big Brain',
+  'weight': '50',
+  'occurence': '71 in 10007 editions (0.71 %)'
+}
+{
+  'trait': 'Blue Afro',
+  'weight': '100',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Blue Brushed',
+  'weight': '100',
+  'occurence': '152 in 10007 editions (1.52 %)'
+}
+{
+  'trait': 'Blue Buckethat',
+  'weight': '100',
+  'occurence': '143 in 10007 editions (1.43 %)'
+}
+{
+  'trait': 'Blue Curly',
+  'weight': '100',
+  'occurence': '171 in 10007 editions (1.71 %)'
+}
+{
+  'trait': 'Blue Messy',
+  'weight': '100',
+  'occurence': '153 in 10007 editions (1.53 %)'
+}
+{
+  'trait': 'Blue Mohawk',
+  'weight': '100',
+  'occurence': '185 in 10007 editions (1.85 %)'
+}
+{
+  'trait': 'Blue Nerd',
+  'weight': '100',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Blue Puffballs',
+  'weight': '100',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Blue Reversed Hat',
+  'weight': '95',
+  'occurence': '155 in 10007 editions (1.55 %)'
+}
+{
+  'trait': 'Blue Tophat',
+  'weight': '80',
+  'occurence': '121 in 10007 editions (1.21 %)'
+}
+{
+  'trait': 'Brown Curly',
+  'weight': '100',
+  'occurence': '153 in 10007 editions (1.53 %)'
+}
+{
+  'trait': 'Brown Mullet',
+  'weight': '100',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Combo1 Cap',
+  'weight': '80',
+  'occurence': '115 in 10007 editions (1.15 %)'
+}
+{
+  'trait': 'Combo2 Cap',
+  'weight': '80',
+  'occurence': '139 in 10007 editions (1.39 %)'
+}
+{
+  'trait': 'Combo3 Cap',
+  'weight': '80',
+  'occurence': '149 in 10007 editions (1.49 %)'
+}
+{
+  'trait': 'Cowboy',
+  'weight': '100',
+  'occurence': '152 in 10007 editions (1.52 %)'
+}
+{
+  'trait': 'Crown',
+  'weight': '15',
+  'occurence': '28 in 10007 editions (0.28 %)'
+}
+{
+  'trait': 'Green Alfalfa',
+  'weight': '100',
+  'occurence': '151 in 10007 editions (1.51 %)'
+}
+{
+  'trait': 'Green Beanie',
+  'weight': '100',
+  'occurence': '149 in 10007 editions (1.49 %)'
+}
+{
+  'trait': 'Green Bowlcut',
+  'weight': '100',
+  'occurence': '164 in 10007 editions (1.64 %)'
+}
+{
+  'trait': 'Green Brushed',
+  'weight': '100',
+  'occurence': '162 in 10007 editions (1.62 %)'
+}
+{
+  'trait': 'Green Cap',
+  'weight': '100',
+  'occurence': '198 in 10007 editions (1.98 %)'
+}
+{
+  'trait': 'Green Curly',
+  'weight': '100',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Green Devil',
+  'weight': '100',
+  'occurence': '167 in 10007 editions (1.67 %)'
+}
+{
+  'trait': 'Green Long',
+  'weight': '100',
+  'occurence': '166 in 10007 editions (1.66 %)'
+}
+{
+  'trait': 'Green Mohawk',
+  'weight': '100',
+  'occurence': '149 in 10007 editions (1.49 %)'
+}
+{
+  'trait': 'Green Mullet',
+  'weight': '100',
+  'occurence': '155 in 10007 editions (1.55 %)'
+}
+{
+  'trait': 'Green Nerd',
+  'weight': '100',
+  'occurence': '155 in 10007 editions (1.55 %)'
+}
+{
+  'trait': 'Green Puffers',
+  'weight': '100',
+  'occurence': '166 in 10007 editions (1.66 %)'
+}
+{
+  'trait': 'Green Reversed Hat',
+  'weight': '100',
+  'occurence': '169 in 10007 editions (1.69 %)'
+}
+{
+  'trait': 'Green Tophat',
+  'weight': '80',
+  'occurence': '144 in 10007 editions (1.44 %)'
+}
+{
+  'trait': 'Green Viking',
+  'weight': '80',
+  'occurence': '113 in 10007 editions (1.13 %)'
+}
+{
+  'trait': 'Halo',
+  'weight': '60',
+  'occurence': '105 in 10007 editions (1.05 %)'
+}
+{
+  'trait': 'Helmet',
+  'weight': '100',
+  'occurence': '152 in 10007 editions (1.52 %)'
+}
+{
+  'trait': 'Holo Afro',
+  'weight': '20',
+  'occurence': '37 in 10007 editions (0.37 %)'
+}
+{
+  'trait': 'Holo Alfalfa',
+  'weight': '20',
+  'occurence': '27 in 10007 editions (0.27 %)'
+}
+{
+  'trait': 'Holo Brushed',
+  'weight': '20',
+  'occurence': '25 in 10007 editions (0.25 %)'
+}
+{
+  'trait': 'Holo Long',
+  'weight': '30',
+  'occurence': '61 in 10007 editions (0.61 %)'
+}
+{
+  'trait': 'Holo Mohawk',
+  'weight': '20',
+  'occurence': '42 in 10007 editions (0.42 %)'
+}
+{
+  'trait': 'Holo Poop',
+  'weight': '14',
+  'occurence': '24 in 10007 editions (0.24 %)'
+}
+{
+  'trait': 'Holo Santa',
+  'weight': '30',
+  'occurence': '53 in 10007 editions (0.53 %)'
+}
+{
+  'trait': 'Holo Tophat',
+  'weight': '25',
+  'occurence': '60 in 10007 editions (0.60 %)'
+}
+{
+  'trait': 'Holo Viking',
+  'weight': '25',
+  'occurence': '49 in 10007 editions (0.49 %)'
+}
+{
+  'trait': 'Jester',
+  'weight': '60',
+  'occurence': '120 in 10007 editions (1.20 %)'
+}
+{
+  'trait': 'Mushroom',
+  'weight': '60',
+  'occurence': '102 in 10007 editions (1.02 %)'
+}
+{
+  'trait': 'Pink Alfalfa',
+  'weight': '100',
+  'occurence': '161 in 10007 editions (1.61 %)'
+}
+{
+  'trait': 'Pink Beanie',
+  'weight': '100',
+  'occurence': '148 in 10007 editions (1.48 %)'
+}
+{
+  'trait': 'Pink Brushed',
+  'weight': '100',
+  'occurence': '183 in 10007 editions (1.83 %)'
+}
+{
+  'trait': 'Pink Buckethat',
+  'weight': '100',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Pink Headband',
+  'weight': '100',
+  'occurence': '152 in 10007 editions (1.52 %)'
+}
+{
+  'trait': 'Pink Long',
+  'weight': '100',
+  'occurence': '159 in 10007 editions (1.59 %)'
+}
+{
+  'trait': 'Pink Reversed Hat',
+  'weight': '100',
+  'occurence': '169 in 10007 editions (1.69 %)'
+}
+{
+  'trait': 'Poop',
+  'weight': '30',
+  'occurence': '55 in 10007 editions (0.55 %)'
+}
+{
+  'trait': 'Purple Alfalfa',
+  'weight': '80',
+  'occurence': '124 in 10007 editions (1.24 %)'
+}
+{
+  'trait': 'Purple Bowlcut',
+  'weight': '80',
+  'occurence': '134 in 10007 editions (1.34 %)'
+}
+{
+  'trait': 'Purple Brushcut',
+  'weight': '80',
+  'occurence': '127 in 10007 editions (1.27 %)'
+}
+{
+  'trait': 'Purple Cap',
+  'weight': '100',
+  'occurence': '179 in 10007 editions (1.79 %)'
+}
+{
+  'trait': 'Purple Devil',
+  'weight': '100',
+  'occurence': '166 in 10007 editions (1.66 %)'
+}
+{
+  'trait': 'Purple Long',
+  'weight': '100',
+  'occurence': '178 in 10007 editions (1.78 %)'
+}
+{
+  'trait': 'Purple Puffers',
+  'weight': '100',
+  'occurence': '176 in 10007 editions (1.76 %)'
+}
+{
+  'trait': 'Purple Viking',
+  'weight': '70',
+  'occurence': '109 in 10007 editions (1.09 %)'
+}
+{
+  'trait': 'Red Cap',
+  'weight': '40',
+  'occurence': '68 in 10007 editions (0.68 %)'
+}
+{
+  'trait': 'Santa Hat',
+  'weight': '50',
+  'occurence': '82 in 10007 editions (0.82 %)'
+}
+{
+  'trait': 'Stem',
+  'weight': '80',
+  'occurence': '120 in 10007 editions (1.20 %)'
+}
+{
+  'trait': 'White Buckethat',
+  'weight': '90',
+  'occurence': '136 in 10007 editions (1.36 %)'
+}
+{
+  'trait': 'White Cap',
+  'weight': '90',
+  'occurence': '135 in 10007 editions (1.35 %)'
+}
+{
+  'trait': 'Wizard',
+  'weight': '50',
+  'occurence': '71 in 10007 editions (0.71 %)'
+}
+{
+  'trait': 'Yellow Bowlcut',
+  'weight': '100',
+  'occurence': '157 in 10007 editions (1.57 %)'
+}
+{
+  'trait': 'Yellow Cap',
+  'weight': '90',
+  'occurence': '159 in 10007 editions (1.59 %)'
+}
+{
+  'trait': 'Yellow Curly',
+  'weight': '100',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Yellow Headband',
+  'weight': '100',
+  'occurence': '163 in 10007 editions (1.63 %)'
+}
+{
+  'trait': 'Yellow Messy',
+  'weight': '100',
+  'occurence': '152 in 10007 editions (1.52 %)'
+}
+{
+  'trait': 'Yellow Reversed Hat',
+  'weight': '90',
+  'occurence': '165 in 10007 editions (1.65 %)'
+}
+
+'trait' type: Accessories
+{
+  'trait': 'Airpod',
+  'weight': '10',
+  'occurence': '675 in 10007 editions (6.75 %)'
+}
+{
+  'trait': 'Hoop',
+  'weight': '15',
+  'occurence': '1110 in 10007 editions (11.09 %)'
+}
+{
+  'trait': 'None',
+  'weight': '100',
+  'occurence': '7115 in 10007 editions (71.10 %)'
+}
+{
+  'trait': 'Stud',
+  'weight': '15',
+  'occurence': '1107 in 10007 editions (11.06 %)'
+}
+
+'trait' type: Eyes
+{
+  'trait': '3D Glasses',
+  'weight': '100',
+  'occurence': '316 in 10007 editions (3.16 %)'
+}
+{
+  'trait': 'Aviators',
+  'weight': '100',
+  'occurence': '324 in 10007 editions (3.24 %)'
+}
+{
+  'trait': 'Chill',
+  'weight': '100',
+  'occurence': '363 in 10007 editions (3.63 %)'
+}
+{
+  'trait': 'Flat',
+  'weight': '70',
+  'occurence': '249 in 10007 editions (2.49 %)'
+}
+{
+  'trait': 'Glasses',
+  'weight': '100',
+  'occurence': '320 in 10007 editions (3.20 %)'
+}
+{
+  'trait': 'Happy Note',
+  'weight': '30',
+  'occurence': '103 in 10007 editions (1.03 %)'
+}
+{
+  'trait': 'Happy',
+  'weight': '100',
+  'occurence': '337 in 10007 editions (3.37 %)'
+}
+{
+  'trait': 'Hearts',
+  'weight': '100',
+  'occurence': '352 in 10007 editions (3.52 %)'
+}
+{
+  'trait': 'Mad Note',
+  'weight': '30',
+  'occurence': '128 in 10007 editions (1.28 %)'
+}
+{
+  'trait': 'Meh Note',
+  'weight': '30',
+  'occurence': '91 in 10007 editions (0.91 %)'
+}
+{
+  'trait': 'Sad Note',
+  'weight': '30',
+  'occurence': '98 in 10007 editions (0.98 %)'
+}
+{
+  'trait': 'Shades',
+  'weight': '100',
+  'occurence': '299 in 10007 editions (2.99 %)'
+}
+{
+  'trait': 'Skull Mask',
+  'weight': '20',
+  'occurence': '66 in 10007 editions (0.66 %)'
+}
+{
+  'trait': 'Verified',
+  'weight': '30',
+  'occurence': '115 in 10007 editions (1.15 %)'
+}
+{
+  'trait': 'Visitor',
+  'weight': '2100',
+  'occurence': '6846 in 10007 editions (68.41 %)'
+}
+
