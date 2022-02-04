@@ -31,7 +31,7 @@ export default function Home() {
       </Head>
       <Navbar/>
       <Hero/>
-      <MintPaused/>
+      <Mint/>
 
 
 
