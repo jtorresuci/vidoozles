@@ -20,7 +20,7 @@ pb="5rem"
       <Box>
 
       </Box>
-<VStack>       <Image w={"45%", "80%"} src={logoImg}/>
+<VStack>       <Image w={"70%", "80%"} src={logoImg}/>
 <Socials/>
 </VStack>        
 <Box></Box>
