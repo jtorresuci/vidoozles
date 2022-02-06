@@ -54,7 +54,7 @@ const Mint = () => {
     }
   
     function mint(amount) {
-      let aPrice = 5 * amount;
+      let aPrice = 2 * amount;
       let _price = web3.utils.toWei(aPrice.toString());
       let encoded = contract.methods.mint(address,amount).encodeABI()
   
