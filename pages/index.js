@@ -39,7 +39,7 @@ export default function Home() {
       reverse
         image={image1}
         heading="About Vidoozles"
-        text="Vidoozles are the results of 10,007 abductions and experimentations done by Visitor #7915 on the Doodles. Each Vidoozles is a unique blend of a Visitor and a Doodle. Mint price is 5 MATIC."
+        text="Vidoozles are the results of 10,007 abductions and experimentations done by Visitor #7915 on the Doodles. Each Vidoozles is a unique blend of a Visitor and a Doodle. Mint price is 2 MATIC."
       />   <Roadmap
       reverse
         image={image3}
