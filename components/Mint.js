@@ -39,7 +39,14 @@ const Mint = () => {
   }
 
   useEffect(() => {
-    setMetamask(window.ethereum.isMetaMask);
+    try
+    {
+      setMetamask(window.ethereum.isMetaMask);
+    }
+    catch(e)
+    {
+      alert("Please install Metamask.")
+    }
 
     // console.log(hasMetamask)
   }, [hasMetamask]);
