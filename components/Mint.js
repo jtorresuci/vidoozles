@@ -2,7 +2,7 @@
 import Head from "next/head";
 // import Image from "next/image";
 import { useEffect, useState } from "react";
-import { Image, Box, Grid, Flex, Center, VStack, Button, Text } from '@chakra-ui/react';
+import { Image, Box, Grid, Flex, Center, VStack, Button, Text, Link } from '@chakra-ui/react';
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from "react-icons/md";
 
 const { ethers, Contract } = require("ethers");
@@ -146,6 +146,14 @@ return(
       <Box>
         <Center>
           <VStack p="2rem" >
+            {
+        //Check if message failed
+        hasMetamask ? (
+          <div></div>
+        ) : (
+          <Box> Please install Metamask or another web3 provider. <Link isExternal="true" href="https://metamask.io/">https://metamask.io/</Link> </Box>
+        )
+      }
             <Button borderRadius={"20px"} color="white" isDisabled={!hasMetamask} className="color-change-2x" onClick={connectWallet}>
               <Center fontFamily={"BodoAmat"}>
               Connect to Web3
