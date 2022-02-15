@@ -185,7 +185,7 @@ return(
             <Button                 disabled={mintButtonDisabled}
  borderRadius={"20px"} color="white" className="color-change-2x" onClick={handleMint}>
               <Center fontFamily={"BodoAmat"}>
-                {sliderValue}
+                Mint {sliderValue}
                 </Center>
             </Button>
           </VStack>
