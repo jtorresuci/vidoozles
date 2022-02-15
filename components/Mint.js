@@ -56,7 +56,7 @@ const Mint = () => {
     await initializeWallet(signer);
 
     const c = new ethers.Contract(contractAddress, abi, signer);
-    console.log(c)
+    // console.log(c)
     setContractObj(c);
     const supply = await c.totalSupply();
     setSupplyText(Number(supply));
@@ -66,12 +66,12 @@ const Mint = () => {
   }
 
   async function initializeWallet(signer) {
-    console.log(signerAddress);
-    console.log(hasMetamask);
+    // console.log(signerAddress);
+    // console.log(hasMetamask);
   }
 
   async function handleMint() {
-    console.log("Mint")
+    // console.log("Mint")
 
     let aPrice = 2 * sliderValue
     let quantity = sliderValue
@@ -80,7 +80,7 @@ const Mint = () => {
     const mintWithSigner = contractObj.connect(signerObj);
     const totalPrice = { value: _price.toString() }
 
-    console.log(mintWithSigner)
+    // console.log(mintWithSigner)
 
     try {
       // console.log(signerAddress)
@@ -90,11 +90,11 @@ const Mint = () => {
       // console.log(options)
       // console.log(amount)
       let tx = await mintWithSigner.functions.mint(signerAddress, quantity, totalPrice);
-      console.log(tx)
+      // console.log(tx)
       let receipt = await tx.wait();
       // console.log(receipt);
       alert("Success")
-      console.log("Success")
+      // console.log("Success")
     }
     catch (e) {
       // console.log(e.data.message)
@@ -118,7 +118,7 @@ const Mint = () => {
       // console.log(ethers.utils.formatEther( await signerObj.getBalance()))
       // alert(e)
       // signer.getB
-      console.log("fail")
+      // console.log("fail")
       // alert(e.data.message)
       // console.log(e)
     }
