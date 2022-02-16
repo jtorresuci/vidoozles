@@ -27,7 +27,7 @@ const Mint = () => {
   const [supplyText, setSupplyText] = useState("?");
   const [signerObj, setsignerObj] = useState(null);
   const [providerEth, setProviderEth] = useState(null);
-  const [sliderValue, setSliderValue] = useState(5)
+  const [sliderValue, setSliderValue] = useState(10)
   const [connectedStatus, setConnectedStatus] = useState(false)
   const [mintButtonDisabled, setmintButtonDisabled] = useState(true)
   const [correctNetwork, setNetwork] = useState(false)
