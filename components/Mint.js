@@ -30,7 +30,7 @@ const Mint = () => {
   const [sliderValue, setSliderValue] = useState(5)
   const [connectedStatus, setConnectedStatus] = useState(false)
   const [mintButtonDisabled, setmintButtonDisabled] = useState(true)
-
+  const [correctNetwork, setNetwork] = useState(false)
   
 
 
@@ -53,6 +53,15 @@ const Mint = () => {
 
   async function connectWallet() {
     const provider = new ethers.providers.Web3Provider(window.ethereum);
+    // console.log((await provider.getNetwork()).chainId)
+    if((await provider.getNetwork()).chainId != 137)
+    {
+      alert("Error: Wrong network. Please switch to the Matic network.")
+      setmintButtonDisabled(true)
+      setNetwork(false)
+      return;
+    }
+    setNetwork(true)
     await provider.send("eth_requestAccounts", []);
     const signer = provider.getSigner();
 
@@ -69,7 +78,6 @@ const Mint = () => {
     setSupplyText(Number(supply));
     setConnectedStatus(true)
     setmintButtonDisabled(false)
-    
   }
 
   async function initializeWallet(signer) {
@@ -79,8 +87,14 @@ const Mint = () => {
 
   async function handleMint() {
     // console.log("Mint")
-
-    let aPrice = 2 * sliderValue
+    // if((await providerEth.getNetwork()).chainId != 137)
+    // {
+    //   alert("Error: Wrong network. Please switch to the Matic network.")
+    //   return;
+    // }
+    try{
+      
+      let aPrice = 2 * sliderValue
     let quantity = sliderValue
     let _price = ethers.utils.parseEther(aPrice.toString());
 
@@ -99,7 +113,7 @@ const Mint = () => {
       let tx = await mintWithSigner.functions.mint(signerAddress, quantity, totalPrice);
       // console.log(tx)
       let receipt = await tx.wait();
-      // console.log(receipt);
+      console.log(receipt);
       alert("Success")
       // console.log("Success")
     }
@@ -129,6 +143,15 @@ const Mint = () => {
       // alert(e.data.message)
       // console.log(e)
     }
+
+    }
+    catch(e)
+    {
+      setNetwork(false)
+
+    }
+
+    
   }
 
 
@@ -188,13 +211,18 @@ return(
             <MdKeyboardArrowRight color="black"/>
 
             </Flex>
-
-            <Button                 disabled={mintButtonDisabled}
+            {
+        //Check if message failed
+        correctNetwork ? (
+<Button                 disabled={mintButtonDisabled}
  borderRadius={"20px"} color="white" className="color-change-2x" onClick={handleMint}>
               <Center fontFamily={"BodoAmat"}>
                 Mint {sliderValue}
                 </Center>
-            </Button>
+            </Button>          ) : (<div></div>    )
+      }
+
+            
           </VStack>
         </Center>
       </Box>
