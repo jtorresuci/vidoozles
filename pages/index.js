@@ -11,6 +11,8 @@ import Roadmap from '../components/Roadmap';
 import ImageGrid from '../components/ImageGrid';
 import MintPaused from '../components/MintingPaused';
 import Rare from '../components/Rare';
+import Connect from '../components/Connect';
+import { Box } from '@chakra-ui/react';
 
 const image1 = "../1.png"
 const image3 = "../3.png"
@@ -23,15 +25,21 @@ const image7 = "../7.png"
 let Web3 = require('web3');
 
 export default function Home() {
+  const [isConnected, setIsConnected] = useState(false)
 
   return (
-    <div id="main">
-      <Head>
-      <title>Vidoozles DAO</title>
-      </Head>
+    <Box>
+
+    <div><Head>
+    <title>Vidoozles DAO</title>
+    </Head></div>
+    
+    <Box id="main">
+  
       <Navbar/>
       <Hero/>
       <Mint/>
+
 
 
 
@@ -60,6 +68,8 @@ export default function Home() {
         text="This is a derivative project and was inspired by Mike Mitchell`&apos;`s, The Visitors NFT, and Burnt Toast`&apos;`s, Doodles. This project is by the fans for the fans!"
       /> 
          <Footer/>
-    </div>
+    </Box>
+    </Box>
+
   )
 }
