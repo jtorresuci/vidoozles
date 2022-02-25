@@ -31,6 +31,11 @@ const Mint = () => {
   const [connectedStatus, setConnectedStatus] = useState(false)
   const [mintButtonDisabled, setmintButtonDisabled] = useState(true)
   const [correctNetwork, setNetwork] = useState(false)
+
+  const [hasVidoozles, sethasVidoozles] = useState(false);
+
+
+  
   
 
 
@@ -75,9 +80,13 @@ const Mint = () => {
     // console.log(c)
     setContractObj(c);
     const supply = await c.totalSupply();
+    let walletOfSigner = await c.walletOfOwner(signer.getAddress());
+
     setSupplyText(Number(supply));
     setConnectedStatus(true)
     setmintButtonDisabled(false)
+    if (walletOfSigner.length > 0) sethasVidoozles(true);
+    else sethasVidoozles(false);
   }
 
   async function initializeWallet(signer) {
@@ -158,6 +167,7 @@ const Mint = () => {
 return(
     <Box  pl={["0", sidePadding]}
     pr={["0", sidePadding]} pt="5rem">
+      {hasVidoozles ? (<Center><Button><Link href="/ember">Burn for Ember</Link></Button></Center>) :(<div></div>)}
     <Grid
 
       templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}
