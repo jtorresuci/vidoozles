@@ -167,7 +167,7 @@ const Mint = () => {
 return(
     <Box  pl={["0", sidePadding]}
     pr={["0", sidePadding]} pt="5rem">
-      {hasVidoozles ? (<Center><Button><Link href="/ember">Burn for Ember</Link></Button></Center>) :(<div></div>)}
+      {hasVidoozles ? (<Center p="2rem"><Button  color="white" fontFamily={"BodoAmat"} className="color-change-2x"><Link href="/ember">Burn for Ember</Link></Button></Center>) :(<div></div>)}
     <Grid
 
       templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}

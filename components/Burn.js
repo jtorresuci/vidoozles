@@ -649,7 +649,7 @@ console.log(finalResult)
     <Box p="2rem">
       <Center>
         <VStack>
-          <Button
+          <Button fontFamily={"BodoAmat"} color="white"
             onClick={(e) => {
               connectWallet();
             }}
@@ -657,9 +657,9 @@ console.log(finalResult)
           >
             Load Inventory
           </Button>
-          <Button onClick={(e) => approveSpending()}>Approve Spending</Button>
+          <Button fontFamily={"BodoAmat"} className="color-change-2x"color="white" onClick={(e) => approveSpending()}>Approve Spending</Button>
           {connectedStatus ? (
-            <Box>
+            <Box> <VStack>
               <Input
                 p="1rem"
                 value={value}
@@ -668,10 +668,10 @@ console.log(finalResult)
                 size="sm"
               ></Input>{" "}
               <Center p="1rem">
-                <Button onClick={(e) => burn()} className="color-change-2x">
+                <Button  fontFamily={"BodoAmat"} color="white" onClick={(e) => burn()} className="color-change-5x">
                   Burn
                 </Button>
-              </Center>{" "}
+              </Center>{" "}</VStack>
             </Box>
           ) : (
             <div></div>
