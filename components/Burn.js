@@ -660,6 +660,7 @@ console.log(finalResult)
           <Button fontFamily={"BodoAmat"} className="color-change-2x"color="white" onClick={(e) => approveSpending()}>Approve Spending</Button>
           {connectedStatus ? (
             <Box> <VStack>
+              <Box>Enter token IDs, seperated by commas</Box>
               <Input
                 p="1rem"
                 value={value}
